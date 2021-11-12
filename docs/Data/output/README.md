@@ -1,0 +1,3 @@
+# Output
+
+source: `{{ page.path }}`
